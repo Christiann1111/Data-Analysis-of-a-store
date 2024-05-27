@@ -4,7 +4,7 @@
 
 ## 1)Data Cleaning:
 
-### I have needed to get clean the data, but in this dataset i found errors, improper arrays, and i cleaned all of them
+### I have needed to get clean the data, but in this dataset i found errors, improper arrays, and i have cleaned all of them
 
 ## 2) Data Processing:
 
